@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="logoBumpin.png" width="1860" height="2458">
+  <SubTexture name="logo bumpin0001" x="0" y="0"  width="625" height="505"/>
+</TextureAtlas>
